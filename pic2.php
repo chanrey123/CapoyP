@@ -1,6 +1,7 @@
 </DOCTYPE html>
 <html lang="en">
 <head><title>Mercedes-Benz</title></head>
+  <h2>Mercedes-Benz</h2>
 <body>
 <center><h1>CAPOYC Photo List</h1></center>
 <img src="pic2.jpg"></center>
