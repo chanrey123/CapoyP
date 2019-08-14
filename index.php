@@ -5,7 +5,7 @@
 </head>
 <body align="center">
 <h1>LOGIN</h1>
-<form action="/action_page.php">
+<form action="photo.php">
 Username: <input type="text" name="Username"
   value=""><br>
 Password: <input type="text" name="Password"
