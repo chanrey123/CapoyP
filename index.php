@@ -12,7 +12,7 @@ Password: <input type="text" name="Password"
   value=""><br>
 <input type="submit" value="Log in">
   <a href="signup">Sign up</a>
-<a href="forgotpassword">Forgot Password?</a>
+<a href="resetpassword.php">Forgot Password?</a>
 
 </form?
 
