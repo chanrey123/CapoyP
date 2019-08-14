@@ -11,7 +11,7 @@ Username: <input type="text" name="Username"
 Password: <input type="text" name="Password"
   value=""><br>
 <input type="submit" value="Log in">
-<input type="submit" value="Sign up">
+  <a href="signup">Sign up</a>
 <a href="forgotpassword">Forgot Password?</a>
 
 </form?
