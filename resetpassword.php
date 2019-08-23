@@ -16,6 +16,7 @@
 </br>
 <form action="signup2.php">
 <input type="submit" value="Submit">
+</form>
 
 </body>
 </html>
