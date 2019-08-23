@@ -11,10 +11,9 @@ Username: <input type="text" name="Username"
 Password: <input type="text" name="Password"
   value=""><br>
 <input type="submit" value="Log in">
-  <a href="signup">Sign up</a>
+  <a href="register.html">Sign up</a>
 <a href="resetpassword.php">Forgot Password?</a>
 
   </form>
-
 </body>
 </html>
