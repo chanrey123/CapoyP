@@ -14,7 +14,7 @@ Password: <input type="text" name="Password"
   <a href="signup">Sign up</a>
 <a href="resetpassword.php">Forgot Password?</a>
 
-</form?
+  </form>
 
 </body>
 </html>
