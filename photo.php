@@ -7,6 +7,7 @@
 <center><a href="pic1.php">Photo 1</a></center>
 <center><a href="pic2.php">Photo 2</a></center>
 <center><a href="pic3.php">Photp 3</a></center>
+  <a href="index.php">Log out</a>
 </head>
 </body>
 </html>
