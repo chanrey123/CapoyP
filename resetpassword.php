@@ -14,6 +14,7 @@
 <input text="text"placeholder="Enter your Password."
 </br>
 </br>
+<form action="signup2.php">
 <input type="submit" value="Submit">
 
 </body>
