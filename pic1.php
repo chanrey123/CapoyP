@@ -4,7 +4,8 @@
   <h2>Lamborghini</h2>
 <body>
 <center><h1>CAPOYC Photo List</h1></center>
-  <center><img src="pic1.jpg"></center>
+  <center><img src="pic1.jpg" width="500" height="300"></center>
+  <br>
 <a href="index.php"><b>BACK TO HOME</b></a>
 <a href="pic2.php" style="float: right;"<b>NEXT PHOTO</b></a>
 </body>
