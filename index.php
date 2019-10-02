@@ -9,7 +9,7 @@
 
 <h1>Rock-Paper-Scissors Game</h1>
 
-<form name="loginform" onSubmit="return validateForm();" action="game.html" method="post">
+<form name="loginform" onSubmit="return validateForm();" action="game.php" method="post">
  <div class="imgcontainer">
   </div>
     <p class="one"><label><b>Username:</b></label></p>
